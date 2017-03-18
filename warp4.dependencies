@@ -1,0 +1,20 @@
+[
+    {
+        "remote":       "github",
+        "repository":   "Bcrichster/android_device_zte_warp4",
+        "target_path":  "device/zte/warp4",
+        "revision":     "pac-5.1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Bcrichster/android_kernel_zte_msm82286",
+        "target_path":  "kernel/warp4",
+        "revision":     "master"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Bcrichster/vendor_zte_warp4",
+        "target_path":  "vendor/zte/warp4",
+        "revision":     "master"
+    }
+]
